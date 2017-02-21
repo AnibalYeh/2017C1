@@ -21,6 +21,7 @@ namespace WindowsFormsApplication1
             //var f = new Form1();
             //f.Show();
             //Application.Run();
+            //差在多一個f變數所需要的記憶體空間?!
         }
     }
 }
